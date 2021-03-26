@@ -1,0 +1,8 @@
+C:\Users\T\source\repos\HomeCinema\HomeCinema.Domain\bin\Debug\netcoreapp2.1\HomeCinema.Domain.deps.json
+C:\Users\T\source\repos\HomeCinema\HomeCinema.Domain\bin\Debug\netcoreapp2.1\HomeCinema.Domain.dll
+C:\Users\T\source\repos\HomeCinema\HomeCinema.Domain\obj\Debug\netcoreapp2.1\HomeCinema.Domain.AssemblyInfoInputs.cache
+C:\Users\T\source\repos\HomeCinema\HomeCinema.Domain\obj\Debug\netcoreapp2.1\HomeCinema.Domain.AssemblyInfo.cs
+C:\Users\T\source\repos\HomeCinema\HomeCinema.Domain\bin\Debug\netcoreapp2.1\HomeCinema.Domain.pdb
+C:\Users\T\source\repos\HomeCinema\HomeCinema.Domain\obj\Debug\netcoreapp2.1\HomeCinema.Domain.dll
+C:\Users\T\source\repos\HomeCinema\HomeCinema.Domain\obj\Debug\netcoreapp2.1\HomeCinema.Domain.pdb
+C:\Users\T\source\repos\HomeCinema\HomeCinema.Domain\obj\Debug\netcoreapp2.1\HomeCinema.Domain.csprojAssemblyReference.cache

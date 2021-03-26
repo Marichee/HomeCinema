@@ -1,0 +1,37 @@
+﻿@model HomeCinema.WebModels.WebModels.LoginViewModel
+@{
+    ViewData["Title"] = "LogIn";
+}
+<img src="~/images/camera.png" height="230" />
+<div class="row">
+    <div class="col-md-4 col-md-offset-4">
+        <form asp-action="LogIn">
+            <div class="form-group">
+                <label asp-for="Username" class="control-label"></label>
+                <input asp-for="Username" class="form-control"/>
+                <span asp-validation-for="Username" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Password" class="control-label"></label>
+                <input asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary">Login</button>
+            </div>
+        </form>
+    </div>
+</div>
+<style>
+    img {
+        background-color: #303030;
+        display: block;
+        margin-left: auto;
+        margin-right: auto
+    }
+</style>
+<link rel="stylesheet" type="text/css"  href="~/css/site.css"/>
+
+<script src="/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>

@@ -1,0 +1,13 @@
+C:\Users\T\source\repos\HomeCinema\HomeCinema.DataAccess\bin\Debug\netcoreapp2.1\HomeCinema.DataAccess.deps.json
+C:\Users\T\source\repos\HomeCinema\HomeCinema.DataAccess\bin\Debug\netcoreapp2.1\HomeCinema.DataAccess.dll
+C:\Users\T\source\repos\HomeCinema\HomeCinema.DataAccess\obj\Debug\netcoreapp2.1\HomeCinema.DataAccess.csprojAssemblyReference.cache
+C:\Users\T\source\repos\HomeCinema\HomeCinema.DataAccess\obj\Debug\netcoreapp2.1\HomeCinema.DataAccess.AssemblyInfoInputs.cache
+C:\Users\T\source\repos\HomeCinema\HomeCinema.DataAccess\obj\Debug\netcoreapp2.1\HomeCinema.DataAccess.AssemblyInfo.cs
+C:\Users\T\source\repos\HomeCinema\HomeCinema.DataAccess\bin\Debug\netcoreapp2.1\HomeCinema.DataAccess.pdb
+C:\Users\T\source\repos\HomeCinema\HomeCinema.DataAccess\bin\Debug\netcoreapp2.1\HomeCinema.Domain.dll
+C:\Users\T\source\repos\HomeCinema\HomeCinema.DataAccess\bin\Debug\netcoreapp2.1\HomeCinema.Domain.pdb
+C:\Users\T\source\repos\HomeCinema\HomeCinema.DataAccess\obj\Debug\netcoreapp2.1\HomeCinema.DataAccess.csproj.CopyComplete
+C:\Users\T\source\repos\HomeCinema\HomeCinema.DataAccess\obj\Debug\netcoreapp2.1\HomeCinema.DataAccess.dll
+C:\Users\T\source\repos\HomeCinema\HomeCinema.DataAccess\obj\Debug\netcoreapp2.1\HomeCinema.DataAccess.pdb
+C:\Users\T\source\repos\HomeCinema\HomeCinema.DataAccess\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll
+C:\Users\T\source\repos\HomeCinema\HomeCinema.DataAccess\bin\Debug\netcoreapp2.1\Newtonsoft.Json.xml

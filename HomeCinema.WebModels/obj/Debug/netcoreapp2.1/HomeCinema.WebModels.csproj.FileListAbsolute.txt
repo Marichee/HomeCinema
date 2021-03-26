@@ -1,0 +1,8 @@
+C:\Users\T\source\repos\HomeCinema\HomeCinema.WebModels\bin\Debug\netcoreapp2.1\HomeCinema.WebModels.deps.json
+C:\Users\T\source\repos\HomeCinema\HomeCinema.WebModels\bin\Debug\netcoreapp2.1\HomeCinema.WebModels.dll
+C:\Users\T\source\repos\HomeCinema\HomeCinema.WebModels\bin\Debug\netcoreapp2.1\HomeCinema.WebModels.pdb
+C:\Users\T\source\repos\HomeCinema\HomeCinema.WebModels\obj\Debug\netcoreapp2.1\HomeCinema.WebModels.AssemblyInfoInputs.cache
+C:\Users\T\source\repos\HomeCinema\HomeCinema.WebModels\obj\Debug\netcoreapp2.1\HomeCinema.WebModels.AssemblyInfo.cs
+C:\Users\T\source\repos\HomeCinema\HomeCinema.WebModels\obj\Debug\netcoreapp2.1\HomeCinema.WebModels.dll
+C:\Users\T\source\repos\HomeCinema\HomeCinema.WebModels\obj\Debug\netcoreapp2.1\HomeCinema.WebModels.pdb
+C:\Users\T\source\repos\HomeCinema\HomeCinema.WebModels\obj\Debug\netcoreapp2.1\HomeCinema.WebModels.csprojAssemblyReference.cache

@@ -1,0 +1,75 @@
+﻿
+@{
+    ViewData["Title"] = "MovieDetails";
+}
+
+<h2>MovieDetails</h2>
+<div id="details">
+    <img id="poster"/>
+    @{ if (ViewBag.action != HomeCinema.WebModels.Enums.ActionsViewModel.upVote && ViewBag.action != HomeCinema.WebModels.Enums.ActionsViewModel.downVote)
+        {
+            <a href=@Url.Action("CreateAction", "movie", new { actionss = HomeCinema.WebModels.Enums.ActionsViewModel.downVote, movieId = ViewBag.id })>
+
+                <img class="a" src="~/images/thumb-down.png" />
+            </a>
+            <a href=@Url.Action("CreateAction", "movie", new { actionss = HomeCinema.WebModels.Enums.ActionsViewModel.upVote, movieId = ViewBag.id})>
+                <img class="a" src="~/images/thumbs-up.png" />
+            </a>
+
+
+        }
+        else if (ViewBag.action == HomeCinema.WebModels.Enums.ActionsViewModel.downVote)
+        {
+
+            <a href=@Url.Action("CreateAction", "movie", new { actionss = HomeCinema.WebModels.Enums.ActionsViewModel.upVote, movieId = ViewBag.id })>
+                <img class="a" src="~/images/thumbs-up.png" />
+            </a>
+        }
+        else if (ViewBag.action == HomeCinema.WebModels.Enums.ActionsViewModel.upVote)
+        {
+            <a href=@Url.Action("CreateAction", "movie", new { actionss = HomeCinema.WebModels.Enums.ActionsViewModel.downVote, movieId = ViewBag.id })>
+
+                <img class="a" src="~/images/thumb-down.png" />
+            </a>
+
+        }
+    }
+    <a href=@Url.Action("CreateAction", "movie", new { actionss = HomeCinema.WebModels.Enums.ActionsViewModel.download, movieId = ViewBag.id })>Download</a>
+
+
+    @*@Html.ActionLink("#", "CreateAction", "movie", new { actionss = HomeCinema.WebModels.Enums.ActionsViewModel.upVote, movieId = ViewBag.ide },new {@style= "background-image:url(../../wwwroot/images/thumbs-up-hand-symbol.png)", @class="a" })*@
+
+    /**/
+</div>
+<style>
+    a {
+        color: #FF8C00;
+    }
+        a:hover {
+            color: #FF8C00;
+        }
+    .a {
+        /*background: url(../../wwwroot/images/pnglot.com-thumbs-up-clipart-png-4395743.png);*/
+        /*background-image:url(../../wwwroot/images/thumbs-up-hand-symbol.png);*/
+       
+        display: inline-block;
+        width: 50px;
+        height: 50px;
+        text-indent: -9999px; /* hides the link text */
+    }
+
+        .a:hover {
+            color: #FF8C00;
+        }
+</style>
+
+
+
+
+<script src="~/js/scriptDetails.js">
+
+</script>
+<script>d(@ViewBag.id)</script>
+
+
+
